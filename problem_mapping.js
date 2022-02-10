@@ -24,7 +24,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: parity.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -108,7 +108,7 @@ problem_mapping = {
                 "total": 10002
             },
             "Python: power_x_y.py": {
-                "passed": 0,
+                "passed": 10002,
                 "total": 10002
             }
         },
